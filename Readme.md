@@ -1,9 +1,9 @@
 Web Berita Lombok
 
-### Dibangun Menggunakan
--Vite
--React
--Type Script
+# Dibangun Menggunakan
+#### -Vite
+#### -React
+#### -Type Script
 
 # Authot License
 M.Hidayatullah
